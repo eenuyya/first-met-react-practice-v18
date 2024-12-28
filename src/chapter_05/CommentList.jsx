@@ -3,8 +3,8 @@ import Comment from "./Comment";
 
 const comments = [
     {
-        name: "이인제",
-        comment: "안녕하세요, 소플입니다.",
+        name: "정아윤",
+        comment: "안녕하세요, 정아윤입니다.",
     },
     {
         name: "유재석",
