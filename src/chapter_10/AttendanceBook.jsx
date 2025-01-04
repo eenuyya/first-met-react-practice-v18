@@ -3,7 +3,7 @@ import React from "react";
 const students = [
     {
         id: 1,
-        name: "Inje",
+        name: "Ayun",
     },
     {
         id: 2,
