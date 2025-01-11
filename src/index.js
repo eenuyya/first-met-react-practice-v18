@@ -28,7 +28,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // }, 1000)
 root.render(
   <React.StrictMode>
-    <AttendanceBook />
+    <SignUp />
   </React.StrictMode>
 );
 

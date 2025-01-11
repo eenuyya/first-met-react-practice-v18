@@ -14,7 +14,7 @@ function MainContent(props) {
                 color: theme == "light" ? "black" : "white",
             }}
         >
-            <p>안녕하세요, 테마 변경이 가능한 웹사이트 입니다.</p>
+            <p>안녕하세요, 테마 변경을 해보세요.</p>
             <button onClick={toggleTheme}>테마 변경</button>
         </div>
     );
